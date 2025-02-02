@@ -1,2 +1,2 @@
 # Python-projects
-Some projects I made in python to pratice
+THE PROJECTS HERE I MADE PRATICING!
